@@ -68,3 +68,8 @@ $RECYCLE.BIN/
 *.sql
 *.sqlite
 
+# Word Docs Temporary #
+#######################
+
+~$*.doc
+~$*.docx
